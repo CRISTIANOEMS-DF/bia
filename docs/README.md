@@ -7,7 +7,6 @@
 
 * 📜 **[Certificado de Conclusão](./certification/README.md)** — Visualize o certificado da imersão.
 * 🛠️ **[Guia para Recriar Infraestrutura](./infraestrutura-recriar.md)** — Passo a passo completo para subir a infra na AWS.
-* 🖼️ **[Evidências da PoC](./imagens.md)** — Relatório com todas as capturas de tela.
 
 ## 🚀 Conclusão de Desafios & Provas de Conceito (PoC)
 
