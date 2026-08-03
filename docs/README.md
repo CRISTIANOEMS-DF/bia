@@ -7,19 +7,19 @@
 
 ### 🔹 Aplicação no Ar & Balanceamento de Carga
 Serviço rodando com sucesso e tráfego mapeado para a porta 80.
-![Aplicação no Ar](docs/image/desafioaws_rodandonaporta80.png)
+![Aplicação no Ar](image/desafioaws_rodandonaporta80.png)
 
 ### 🔹 Target Group Configurado
 Target Group do Application Load Balancer saudável e recebendo requisições.
-![Target Group](docs/image/targetgroup_desafio2_porta80.png)
+![Target Group](image/targetgroup_desafio2_porta80.png)
 
 ### 🔹 Automação com Kiro CLI
 CLI do Kiro integrada e 100% operacional no ambiente.
-![Kiro CLI](docs/image/kiro_cli_100%25%20funcional.png)
+![Kiro CLI](image/kiro_cli_100%25%20funcional.png)
 
 ### 🔹 Pipeline CI/CD Concluído
 Status verde indicando o sucesso da esteira de deploy automático.
-![Pipeline](docs/image/pipelineverdinho1.png)
+![Pipeline](image/pipelineverdinho1.png)
 
 ### 🔹 Desafio Finalizado
-![Desafio Concluído](docs/image/desafio2concluido.png)
+![Desafio Concluído](image/desafio2concluido.png)
