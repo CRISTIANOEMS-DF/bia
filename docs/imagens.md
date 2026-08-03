@@ -1,0 +1,5 @@
+![Aplicação no Ar](docs/desafioaws_rodandonaporta80.png)
+![Target Group](docs/targetgroup_desafio2_porta80.png)
+![Kiro CLI](docs/kiro_cli_100%25%20funcional.png)
+![Pipeline](docs/pipelineverdinho1.png)
+![Desafio Concluído](docs/desafio2concluido.png)
