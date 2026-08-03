@@ -3,6 +3,12 @@
 ## 🏗️ Arquitetura AWS
 - [Diagrama ECS + EC2](./architecture/aws-ecs-diagram.html) - Visualização de uma das arquiteturas propostas para iniciar no treinamento e evoluir na Formação AWS
 
+## 📌 Índice de Conteúdos
+
+* 📜 **[Certificado de Conclusão](./certification/README.md)** — Visualize o certificado da imersão.
+* 🛠️ **[Guia para Recriar Infraestrutura](./infraestrutura-recriar.md)** — Passo a passo completo para subir a infra na AWS.
+* 🖼️ **[Evidências da PoC](./imagens.md)** — Relatório com todas as capturas de tela.
+
 ## 🚀 Conclusão de Desafios & Provas de Conceito (PoC)
 
 ### 🔹 Aplicação no Ar & Balanceamento de Carga
