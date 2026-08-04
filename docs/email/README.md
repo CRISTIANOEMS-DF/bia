@@ -57,7 +57,17 @@ Eu não estudo e programo apenas por dinheiro — embora ele seja importante. Pa
 * **Áreas de interesse:** Sou fascinado por marketing, inteligência e análise de sistemas.
 * **Perfil pessoal:** Sou introvertido, tenho ambição de criar minha própria empresa no futuro e não uso redes sociais em excesso.
 * **Leituras e Hobbys:** Leio muitos TCCs de programação (especialmente da UnB — já foram uns cinco na conta) e adoro investigar o funcionamento de hardwares e redes do cotidiano.
-* **Histórias de laboratório:** Certa vez investiguei o que achei ser uma vulnerabilidade crítica em um modem da Nokia, mas descobri que era uma porta aberta deixada pela própria operadora que dava acesso root direto. Por questões de ética, privacidade e segurança, optei por manter a operadora em sigilo, mas fica a lição: todo mundo erra e aprende na prática. Se não tá acreditando? Tô ai uma foto.
+* **Histórias de laboratório:** Certa vez investiguei o que achei ser uma vulnerabilidade crítica em um modem da Nokia, mas descobri que era uma porta aberta deixada pela própria operadora que dava acesso root direto. Por questões de ética, privacidade e segurança, optei por manter a operadora em sigilo, mas fica a lição: todo mundo erra e aprende na prática.
+
+## 🔍 Relato Técnico & Resposta do PSIRT
+
+Se não tá acreditando? Tá aí a prova do envio do relatório e o retorno oficial da equipe de segurança:
+
+### 1. Envio do Alerta (Relatório Inicial)
+![Envio do Relatório - Nokia PSIRT](./Picture_Nokia_ProtonMail_start.png)
+
+### 2. Resposta Oficial da Nokia
+![Resposta da Equipe de Segurança da Nokia](./Picture_Nokia_ProtonMail.png)
 
 ---
 
