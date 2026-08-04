@@ -40,6 +40,7 @@ Bem-vindo à seção de perguntas frequentes sobre mim e sobre os bastidores dos
 ---
 
 ### Q: Quem é você e o que você faz?
+* **Idade:** 16 anos.
 * **Pentest / Hacker:** Me divirto rodando scans de rede, analisando infraestruturas, descobrindo comportamentos de sistemas de baixo nível e buscando entender como as coisas funcionam por dentro.
 * **Programador Aprendiz & Aluno de Ensino Médio:** Programo há mais de quatro anos por puro entusiasmo e aprendizado contínuo. 
 * **Aprendiz de Cloud & Baixo Nível:** Mergulhando fundo em arquitetura de nuvem, sistemas operacionais e estudando Assembly para resolver desafios avançados.
@@ -68,6 +69,14 @@ Se não tá acreditando? Tá aí a prova do envio do relatório e o retorno ofic
 
 ### 2. Resposta Oficial da Nokia
 ![Resposta da Equipe de Segurança da Nokia](./Picture_Nokia_ProtonMail.png)
+
+---
+
+## 🧩 Setup & Ferramentas do Navegador
+
+Para quem tem curiosidade sobre o ecossistema diário de testes, privacidade e desenvolvimento, estas são as extensões ativas no browser:
+
+![Minhas Extensões do Chrome](./minhas_extensoes_do_chome.png)
 
 ---
 
