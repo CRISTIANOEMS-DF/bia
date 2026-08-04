@@ -8,6 +8,7 @@
 * 📜 **[Certificado de Conclusão](./certification/README.md)** — Visualize o certificado da imersão.
 * 🛠️ **[Guia para Recriar Infraestrutura](./infraestrutura-recriar.md)** — Passo a passo completo para subir a infra na AWS.
 * 🌐 **[Solução Route 53 / HTTPS](./rota53/README.md)** — Workaround para habilitar HTTPS no ALB sem custos no Free Tier.
+* * 📧 **[Comprovante de Inscrição / E-mail](./email/README.md)** — Confirmação do desafio protegida por criptografia e salt (CTF).
 
 ## 🚀 Conclusão de Desafios & Provas de Conceito (PoC)
 
