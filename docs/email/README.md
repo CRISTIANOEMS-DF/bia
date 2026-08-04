@@ -31,3 +31,39 @@ Para auxiliar na resolução (ou testar suas habilidades de força bruta/dicion�
 
 ```text
 ADMIN, SECRET, PASSWORD, 123456, ROOT, LAMBDA, DOCKER, KUBERNETES, CLOUD, SECURITY, CIA, SUBMARINECABLE, STUXNET, AWS, TERRAFORM, LINUX, KALI, PYTHON, HACKER, CIPHER, CRYPTO, NETWORK, FIREWALL, PAYLOAD, EXPLOIT
+```
+
+# 💬 FAQ & Sobre Mim
+
+Bem-vindo à seção de perguntas frequentes sobre mim e sobre os bastidores dos meus projetos! Aqui você descobre um pouco mais sobre quem eu sou, o que me move na tecnologia e como me encontrar.
+
+---
+
+### Q: Quem é você e o que você faz?
+* **Pentest / Hacker:** Me divirto rodando scans de rede, analisando infraestruturas, descobrindo comportamentos de sistemas de baixo nível e buscando entender como as coisas funcionam por dentro.
+* **Programador Aprendiz & Aluno de Ensino Médio:** Programo há mais de quatro anos por puro entusiasmo e aprendizado contínuo. 
+* **Aprendiz de Cloud & Baixo Nível:** Mergulhando fundo em arquitetura de nuvem, sistemas operacionais e estudando Assembly para resolver desafios avançados.
+* **Objetivo Atual:** Aperfeiçoar lógica, resolver desafios de código e, quem sabe, conseguir minha própria CVE no processo.
+
+---
+
+### Q: Qual é a sua filosofia sobre programação e tecnologia?
+Eu não estudo e programo apenas por dinheiro — embora ele seja importante. Para mim, o conhecimento e a curiosidade genuína sempre se sobressaem. Passei boa parte da minha vida aprendendo coisas novas e tenho plena consciência de que ninguém sabe tudo. Sou apenas um aprendiz disposto a errar, evoluir e construir coisas novas. Estou aberto a qualquer ideia, projeto ou desafio. Inclusive, no momento estou focado em Assembly para encarar uns LeetCodes em baixo nível.
+
+---
+
+### Q: Quais são os seus interesses e curiosidades fora o código?
+* **Comida favorita:** Pizza, sem dúvidas.
+* **Áreas de interesse:** Sou fascinado por marketing, inteligência e análise de sistemas.
+* **Perfil pessoal:** Sou introvertido, tenho ambição de criar minha própria empresa no futuro e não uso redes sociais em excesso.
+* **Leituras e Hobbys:** Leio muitos TCCs de programação (especialmente da UnB — já foram uns cinco na conta) e adoro investigar o funcionamento de hardwares e redes do cotidiano.
+* **Histórias de laboratório:** Certa vez investiguei o que achei ser uma vulnerabilidade crítica em um modem da Nokia, mas descobri que era uma porta aberta deixada pela própria operadora que dava acesso root direto. Por questões de ética, privacidade e segurança, optei por manter a operadora em sigilo, mas fica a lição: todo mundo erra e aprende na prática. Se não tá acreditando? Tô ai uma foto.
+
+---
+
+### Q: Como posso entrar em contato ou acompanhar seu trabalho?
+Se quiser trocar ideia sobre projetos, tecnologia, segurança ou propostas, pode me chamar por aqui:
+
+* 📧 **ProtonMail:** `cristianoems.df@proton.me`
+* 🎮 **Discord:** `morganoficial` (minha conta principal de trabalho).
+* 🌐 **Reddit:** [u/CristianoMarques23](https://www.reddit.com/user/CristianoMarques23/)
