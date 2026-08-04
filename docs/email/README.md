@@ -30,4 +30,4 @@ O arquivo PDF está protegido por uma senha mestra. A chave de descriptografia n
 Para auxiliar na resolução (ou testar suas habilidades de força bruta/dicionário), utilize o conjunto de strings abaixo como base de testes no seu script de descriptografia:
 
 ```text
-admin, secret, password, 123456, root, lambda, docker, kubernetes, cloud, security, terraform, linux, kali, python, hacker, cipher, crypto, network, [CIA](https://www.cia.gov), [submarinecable](https://www.submarinecablemap.com), [stuxnet](https://en.wikipedia.org/wiki/Stuxnet), firewall, payload, exploit
+ADMIN, SECRET, PASSWORD, 123456, ROOT, LAMBDA, DOCKER, KUBERNETES, CLOUD, SECURITY, CIA, SUBMARINECABLE, STUXNET, AWS, TERRAFORM, LINUX, KALI, PYTHON, HACKER, CIPHER, CRYPTO, NETWORK, FIREWALL, PAYLOAD, EXPLOIT
