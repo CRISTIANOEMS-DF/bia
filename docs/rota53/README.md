@@ -72,6 +72,11 @@ aws acm import-certificate \
   --private-key fileb://privkey.pem
 ```
 
+**Confirmação da Importação no ACM:**  
+Como é possível observar no console da AWS, o certificado importado foi reconhecido com sucesso, exibindo o status **Issued** e marcando **In use: Yes**:
+
+![Certificados Validados no ACM](./certificados_validado.png)
+
 **Resultado do ACM:**
 * **ARN Gerado**: `arn:aws:acm:us-east-1:332677055960:certificate/ab5fc185-91ce-42da-9311-7cdcb92abb64`
 
@@ -81,6 +86,8 @@ No console AWS EC2 (Load Balancers):
 2. Adicionou-se um novo **Listener HTTPS** na porta **443**.
 3. Definiu-se a ação padrão de redirecionamento (**Forward**) para o Target Group da aplicação.
 4. Em **SSL certificate**, selecionou-se a opção **From ACM** e escolheu-se o certificado importado.
+
+![Configuração do Listener no ALB](./listener_bia-alb.png)
 
 ---
 
