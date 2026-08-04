@@ -32,7 +32,6 @@ No painel do ClouDNS, foram criados os apontamentos para vincular o subdomínio 
 * **Registros CNAME adicionais**: Utilizados para tentativas de validação de certificados.
 
 ![Navegação pelo Domínio Externo](./explicação_do_dominio_diferente.png)
-![Prova do Domínio Externo Funcionando](./prova_de_dominio_diferente_da_AWS.png)
 
 ---
 
