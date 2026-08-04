@@ -37,7 +37,7 @@ No painel do ClouDNS, foram criados os apontamentos para vincular o subdomínio 
 
 ## 3. Desafios na Emissão do Certificado SSL (Interação com Kiro-CLI)
 
-Com a parte de rede/DNS encaminhada, o próximo desafio foi obter um certificado SSL válido para atrelar ao Listener HTTPS (porta 443) do ALB. O histórico de tentativas e análises foi documentado no arquivo `PEDIDO PARA O KIRO-CLI PARA SOLUCÃO.txt`.
+Com a parte de rede/DNS encaminhada, o próximo desafio foi obter um certificado SSL válido para atrelar ao Listener HTTPS (porta 443) do ALB. O histórico de tentativas e análises foi documentado no arquivo [`PEDIDO PARA O KIRO-CLI PARA SOLUCÃO.txt`](./PEDIDO%20PARA%20O%20KIRO-CLI%20PARA%20SOLUC%C3%83O.txt).
 
 ### Tentativa 1: Certbot Standalone via Let's Encrypt
 * **Ideia**: Rodar o `certbot` na instância EC2 em modo standalone para obter um certificado gratuito do Let's Encrypt.
