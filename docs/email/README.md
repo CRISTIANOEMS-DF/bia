@@ -1,4 +1,4 @@
-# 🚀 Desafio 1: Imersão AWS & IA - Agosto/2026
+# 🚀 Desafio 1: Imersão AWS & IA
 
 Repositório oficial para submissão e documentação de infraestrutura da Imersão AWS & IA.
 
